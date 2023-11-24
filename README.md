@@ -2,7 +2,7 @@
 ## My first repository.
 ### 06 Task Performance 1 - ARG
 
-**This is my favorite series/movie.**
+**These are my favorite series/movies.**
 *First one is the best!*
 
 TOP 5 series:
