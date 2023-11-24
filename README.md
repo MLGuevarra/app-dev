@@ -19,11 +19,11 @@ TOP 5 series:
 ---
 
 'Python'
-'''
+---
 {
 print('Tensura is the best isekai anime')
 }
-'''
+---
 
 ---
 
